@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sundarasekar T</h1>
 <h3 align="center">A passionate Full stack developer from Trivandrum.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3587000-Coding.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/media/ce582cfec25f5415ef293ab9a2886d0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarasekar01&label=Profile%20views&color=0e75b6&style=flat" alt="sundarasekar01" /> </p>
 
