@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sundarasekar T</h1>
 <h3 align="center">A passionate Full stack developer from Trivandrum.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sundarasekar01&label=Profile%20views&color=0e75b6&style=flat" alt="sundarasekar01" /> </p>
+
 
 - 🔭 I’m currently working on **Web Development**
 
