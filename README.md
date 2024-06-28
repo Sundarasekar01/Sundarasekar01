@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sundarasekar01](https://github.com/Sundarasekar01)
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDB**
 
-- 📫 How to reach me **Sundarasekar.careers@gmail.com**
+- 📫 How to reach me **Sundarasekar01@gmail.com**
 
 
 
