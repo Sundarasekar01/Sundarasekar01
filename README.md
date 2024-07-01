@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working as **Full Stack Developer**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
