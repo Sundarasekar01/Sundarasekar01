@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sundarasekar T</h1>
-<h3 align="center">A passionate Full stack developer from Trivandrum.</h3>
+<h3 align="center"> Full stack developer from Trivandrum.</h3>
 
 
 
